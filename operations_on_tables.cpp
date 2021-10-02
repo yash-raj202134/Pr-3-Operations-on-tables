@@ -129,6 +129,5 @@ int main(void)
     d.TransposeTable(table1); //Transpose.
     cout << endl;
     d.TransposeTable(table2);
-
     return 0;
 }
